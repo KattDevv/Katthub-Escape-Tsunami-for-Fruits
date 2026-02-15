@@ -151,6 +151,7 @@ Callback=function(v) Humanoid.JumpPower=v end
 
 
 local Locations={
+["Base"]=Vector3.new(0.956729, 3.03003, 14.090253),
 ["Common safe area"]=Vector3.new(-7.868587,-3.717562,80.02859),
 ["Uncommon safe area"]=Vector3.new(5.521365,-4.775556,178.629486),
 ["Rare safe area"]=Vector3.new(3.410951,-6.073877,514.424255),
